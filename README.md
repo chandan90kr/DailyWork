@@ -60,7 +60,7 @@ I’m a tech enthusiast with a strong passion for backend development. I’m con
 
 </a>
 
-![TIEN2K3](gitartwork.svg)
+![chandan90kr](gitartwork.svg)
 
 
 ```diff
@@ -143,13 +143,6 @@ I’m a tech enthusiast with a strong passion for backend development. I’m con
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="chandan90kr's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=chandan90kr&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-  <h3>⚡ Recent GitHub Activity</h3>
-
- 
-  <a href="https://commits.top/vietnam_private.html">
-  <img src="http://iot.fbiego.com/api/v1/commits?user=chandan kumar&country=India&bg_color=293035&text_color=fafafa&border_color=293035">
-  </a>
 
 
 </details>  
