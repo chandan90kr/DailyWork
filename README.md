@@ -1,6 +1,6 @@
 <!-- Title The Full Name -->
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=&size=27&pause=1000&color=F03B9E&center=true&vCenter=true&repeat=false&width=435&lines=Ho%C3%A0ng+Anh+Ti%E1%BA%BFn"></a>
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=&size=27&pause=1000&color=F03B9E&center=true&vCenter=true&repeat=false&width=435&lines=chandan90kr"></a>
 
 
 <!-- Social icons section -->
@@ -148,9 +148,8 @@ I’m a tech enthusiast with a strong passion for backend development. I’m con
 
  
   <a href="https://commits.top/vietnam_private.html">
-  <img src="http://iot.fbiego.com/api/v1/commits?user=chandan kumar&country=India_Private&bg_color=293035&text_color=fafafa&border_color=293035">
+  <img src="http://iot.fbiego.com/api/v1/commits?user=chandan kumar&country=India&bg_color=293035&text_color=fafafa&border_color=293035">
   </a>
 
-  <p><a href="chandan90kr.github.io"><img src="https://github.com/chandan90kr/chandan90kr/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="@chandan90kr's Web chandan90kr"></a></p>
 
 </details>  
